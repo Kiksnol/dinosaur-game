@@ -1,0 +1,10 @@
+^C:\PYTUTOR\DINOSAUR-GAME\BUILD\CMAKEFILES\279757FC0C8CBF3E6BDD6FDB46E76DA7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/pytutor/dinosaur-game -BC:/pytutor/dinosaur-game/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/pytutor/dinosaur-game/build/DinoGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

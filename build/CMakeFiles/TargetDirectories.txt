@@ -1,0 +1,9 @@
+C:/pytutor/dinosaur-game/build/CMakeFiles/Experimental.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/Nightly.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/Continuous.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/DinoGame.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/PACKAGE.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/RUN_TESTS.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/ALL_BUILD.dir
+C:/pytutor/dinosaur-game/build/CMakeFiles/ZERO_CHECK.dir

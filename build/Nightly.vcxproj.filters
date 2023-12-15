@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\pytutor\dinosaur-game\build\CMakeFiles\279757fc0c8cbf3e6bdd6fdb46e76da7\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pytutor\dinosaur-game\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\pytutor\dinosaur-game\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FAB5AE98-46EC-3F38-9C7E-5B3D7080165D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
